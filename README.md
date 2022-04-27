@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @princesscherukei
 - 👀 I’m interested in front end development and product design
-- 🌱 I’m currently studying with ALX africa and altschool africa
+- 🌱 I’m currently studying with ALX and altschool africa
 - 💞️ I’m looking to collaborate on new projects to learn and develop my newly acquired skills
 - 📫 How to reach me @the_cheroyale on twitter and via mail princesscherukei@gmail.com
 
