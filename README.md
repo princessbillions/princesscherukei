@@ -1,10 +1,6 @@
 - 👋 Hi, I’m @princesscherukei
-- 👀 I’m interested in front end development and product design
-- 🌱 I’m currently studying with ALX and altschool africa
-- 💞️ I’m looking to collaborate on new projects to learn and develop my newly acquired skills
-- 📫 How to reach me @the_cheroyale on twitter and via mail princesscherukei@gmail.com
+- 👀 I am a Software Engineer with 1+ years of experience in various fields of technology, with focus in the areas of frontend development UX design using multiple programming frameworks.
+- 🌱 I’m currently studying with ALX Africa
+- 💞️ I’m looking to collaborate on new projects
+- 📫 How to reach me via mail princesscherukei@gmail.com and Linkdin https://www.linkedin.com/in/princess-cherukei-o-49b1131b2/
 
-<!---
-princesscherukei/princesscherukei is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
